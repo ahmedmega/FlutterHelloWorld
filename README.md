@@ -1,2 +1,0 @@
-# FlutterHelloWorld
-Flutter Sample
